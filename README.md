@@ -2,6 +2,9 @@
 We have optimized and designed MAF-YOLOv2(MHAF-YOLO) based on the latest YOLO framework. This model achieves exceptionally high parameter efficiency and has reached state-of-the-art performance among all YOLO variants.
 
 最新论文为：[MHAF-YOLO: Multi-Branch Heterogeneous Auxiliary Fusion YOLO for accurate object detection](https://arxiv.org/abs/2502.04656) 
+
+我们改进的Dual-MHAF-YOLO框架在 [**阿里天池 “睿创杯”首届高校创新创业大赛赛道一：轻量化双光(可见光-红外)目标检测**](https://tianchi.aliyun.com/competition/entrance/532344?spm=5176.12281973.J_6-HJZaSjQocH7SIdvbK02.3.784b3b74HDwofS) 竞赛中取得冠军！<br><br>
+
 <div align="center">
  <a href="./">
      <img src="https://github.com/user-attachments/assets/aced26b3-e4a1-4288-a68b-4c2b3b86c5e2" width="80%"/>
